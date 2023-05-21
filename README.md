@@ -1,2 +1,2 @@
 # MyPortfolio
-This is my Portfolio which i have done recently to by using only html and css
+This is my Portfolio which i have done recently by using only html and css
